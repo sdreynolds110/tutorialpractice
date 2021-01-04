@@ -1,0 +1,19 @@
+.bluebox {
+    background-color: #3a5795;
+    color: white;
+    height: 100px;
+    width: auto;
+}
+
+.yellowbox {
+    background-color: yellow;
+    height: 100px;
+    width: auto;
+}
+
+.greenbox {
+    background-color: #31af37;
+    height: 100px;
+    width: auto;
+    
+}
